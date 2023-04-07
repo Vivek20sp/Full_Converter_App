@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Full Converter App</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_the_number">Please Enter The Number</string>
+    <string name="all_the_converted_will_appeare_here">All the Converted will appeare here</string>
+    <string-array name="converter1">
+        <item>select</item>
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Decimeter</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>Nautical Mile</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Astronomical Unit</item>
+    </string-array>
+    <string-array name="converter2">
+        <item>select</item>
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Decimeter</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>Nautical Mile</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Astronomical Unit</item>
+    </string-array>
+</resources>
